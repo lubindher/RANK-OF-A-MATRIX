@@ -24,7 +24,7 @@ print(res)
 ```
 ## Output:
 
-![output](./Screenshot_20230114_030202.png)
+![output](/Screenshot_20230114_030202.png)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
